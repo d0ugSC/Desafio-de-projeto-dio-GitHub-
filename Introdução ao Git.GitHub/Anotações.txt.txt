@@ -1,0 +1,8 @@
+### Links e informações para refoço de conteúdo
+
+- https://www.youtube.com/watch?v=E28J23gCBIs&t=855s
+- https://cursos.alura.com.br/forum/topico-falha-na-autenticacao-com-github-174659
+- É fundamental seguir os passos dos comandos para efetuar sem erro o push do repositório
+- Prestar bastante atenção na sintaxe dos comandos para evitar futuros erros 
+- Lembrar-se sempre de exercitar!
+
